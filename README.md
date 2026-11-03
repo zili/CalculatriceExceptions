@@ -1,4 +1,5 @@
 # Calculatrice
+Lien : https://github.com/zili/CalculatriceExceptions.git
 
 Application console C# (.NET 10) qui simule une calculatrice en boucle, pour illustrer la gestion des exceptions.
 
