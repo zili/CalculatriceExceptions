@@ -14,7 +14,7 @@ Application console C# (.NET 10) qui simule une calculatrice en boucle, pour ill
 
 ## Classes
 - `Calculatrice` : lecture des nombres et calcul (lève les exceptions)
-- `Program` : boucle principale (intercepte les exceptions avec `try / catch / finally`)
+- `Program.cs` : boucle principale en instructions de haut niveau, sans méthode `Main` (intercepte les exceptions avec `try / catch / finally`)
 
 ## Exécution
 ```bash

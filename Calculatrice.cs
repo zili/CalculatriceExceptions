@@ -1,4 +1,4 @@
-namespace Calculatrice
+namespace CalculatriceApp
 {
     public class Calculatrice
     {

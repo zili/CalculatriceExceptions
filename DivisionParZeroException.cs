@@ -1,6 +1,6 @@
 using System;
 
-namespace Calculatrice
+namespace CalculatriceApp
 {
     public class DivisionParZeroException : Exception
     {
